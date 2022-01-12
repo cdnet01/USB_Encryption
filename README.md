@@ -4,8 +4,6 @@
 
 After a trip home for the holidays and a rummage through some old boxes, I am now the proud owner of more than a few USB sticks. I wanted to do something useful with them since I have always loved the idea of having a trove of useful information at your fingertips, and these SSDs ranging from 16gb up to 256gb seemed to be a good way to learn more about drive encryption. 
 
-![USBs](Images/USBs.heic)
-
 ### Lets Begin Encrypting!
 
 - Start by plugging in your USB (or any external drive for that matter) to your host machine
